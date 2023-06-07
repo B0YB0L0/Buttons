@@ -2,7 +2,7 @@ body
 {
     margin: 0;
     padding: 0;
-    background-color: #cf3939
+    background-color: #398ecf;
 }
 .center
 {
@@ -16,7 +16,7 @@ a
     font-size: 20px;
     font-family: arial;
     text-decoration: none;
-    text-transform: uppercase;
+    text-transform: lowercase;
     transform-style: preserve-3d;
     position: relative;
     transition: .5s;
